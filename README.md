@@ -81,8 +81,8 @@
             "https://api.dujin.org/bing/1920.php" //壁纸图片链接
         ]
     ],
-    "Copyright_year": "2020", //站点起始年份
-    "Copyright_text": "無名" //版权
+    "Copyright_year": "2023", //站点起始年份
+    "Copyright_text": "tanziran" //版权
 }
 ```
 
@@ -154,10 +154,12 @@ make clean all
 
 ### API
 
-* [MetingAPI By 武恩赐](https://api.wuenci.com/meting/api/)
+* [MetingAPI](https://api.injahow.cn/meting/)
 * [小歪 API](https://api.ixiaowai.cn/)
 * [和风天气](https://dev.qweather.com/)
 * [ROLL](https://www.mxnzp.com/doc/list)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2022-%E7%84%A1%E5%90%8D-red"></a>
+原项目地址：https://github.com/imsyy/home
+
+<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://tanziran.github.io/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202023--2024-tanziran-red"></a>
